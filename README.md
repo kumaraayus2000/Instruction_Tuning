@@ -32,7 +32,7 @@ q: Medical question
 a: Corresponding answer
 🛠️ Setup & Installation
 1. Clone the Repository
-git clone  cd Instruction-Tuning-LLMs-EHR
+git clone https://github.com/kumaraayus2000/Instruction_Tuning cd Instruction-Tuning-LLMs-EHR
 
 2. Install Dependencies
 pip install -r requirements.txt Alternatively, install individually:
